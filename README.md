@@ -75,3 +75,7 @@ Run the Clinical Control Interface:
 
 Bash
 python app.py
+
+How to Run It:
+In your terminal/Command Prompt, simply run:
+python system_emulator.py
