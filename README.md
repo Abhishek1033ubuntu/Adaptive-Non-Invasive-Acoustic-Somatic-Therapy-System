@@ -66,3 +66,12 @@ The system synthesizes dynamic, phase-continuous mechanical waves in real time u
    ```bash
    git clone [https://github.com/Abhishek1033ubuntu/Adaptive-Non-Invasive-Acoustic-Somatic-Therapy-System.git](https://github.com/Abhishek1033ubuntu/Adaptive-Non-Invasive-Acoustic-Somatic-Therapy-System.git)
    cd Abhishek1033ubuntu
+Install required dependencies:
+
+Bash
+pip install customtkinter matplotlib numpy scipy
+
+Run the Clinical Control Interface:
+
+Bash
+python app.py
