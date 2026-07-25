@@ -1,0 +1,11 @@
+# Python environment files
+__pycache__/
+*.pyc
+*.pyo
+
+# Session reports generated during execution
+Session_Report_*.csv
+
+# OS metadata
+.DS_Store
+Thumbs.db
