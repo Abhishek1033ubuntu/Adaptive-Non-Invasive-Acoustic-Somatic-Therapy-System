@@ -1,5 +1,5 @@
 # Adaptive Non-Invasive Acoustic Somatic Therapy System
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21708728.svg)](https://doi.org/10.5281/zenodo.21708728)  ![Status](https://img.shields.io/badge/Status-Research_POC-orange) ![Type](https://img.shields.io/badge/Type-Simulation_Model-blue)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21708728.svg)](https://doi.org/10.5281/zenodo.21708728)  ![Status](https://img.shields.io/badge/Status-Research_POC-orange)
 
 **Version:** 1.0 (Clinical Prototype Phase)  
 **Status:** Software Verified & Simulated  
